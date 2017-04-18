@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Bits and Pizzas</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_create_order">Create Order</string>
+    <string name="action_share">Share</string>
+
+    <!-- navigatiion drawer fragments -->
+    <string name="title_home">Home fragment</string>
+    <string-array name="array_pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+        <item>Capriciosa</item>
+        <item>Pepperoni</item>
+        <item>Margarita</item>
+    </string-array>
+    <string-array name="array_pastas">
+        <item>Spaghetti Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+    <string-array name="array_stores">
+        <item>Cambridge</item>
+        <item>Sebastopol</item>
+    </string-array>
+    <string-array name="array_titles">
+        <item>Home</item>
+        <item>Pizzas</item>
+        <item>Pastas</item>
+        <item>Stores</item>
+    </string-array>
+
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_pizza_detail">Pizza Detail</string>
+    <string name="home_text">Welcome to our pizzeria. We can offer you most delicious meals on the planet! Take a look.</string>
+</resources>
