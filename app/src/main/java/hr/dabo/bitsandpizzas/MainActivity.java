@@ -102,7 +102,7 @@ public class MainActivity extends FragmentActivity {
 
     }
 
-    // Called whenecer we call invalidateOptionsMenu()
+    // Called whenever we call invalidateOptionsMenu()
     @Override
     public boolean onPrepareOptionsMenu(Menu menu) {
         // if the drawer is open, hide action items related to the content view
